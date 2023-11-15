@@ -1,4 +1,12 @@
-# DIO - Trilha .NET - API e Entity Framework
+# Sistema de Agendamento de Tarefas com Entity Framework em C#
+
+Construindo um Sistema de Agendamento de Tarefas com Entity Framework em C#
+
+## Desafio DIO
+
+Este projeto é um desafio proposto na plataforma Digital Inovation One
+
+## DIO - Trilha .NET - API e Entity Framework
 www.dio.me
 
 ## Desafio de projeto
